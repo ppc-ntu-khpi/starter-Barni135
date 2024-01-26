@@ -1,0 +1,2 @@
+<image src="C:\Users\Barni\Pictures\Screenshots\Снимок экрана (595).png" alt="Текст с описанием картинки">
+<image src="C:\Users\Barni\Pictures\Screenshots\Снимок экрана (596).png"alt="Текст с описанием картинки">

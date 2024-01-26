@@ -1,10 +1,10 @@
 public class Shirt {
-    public int shirtID = 0; // стандартне значення номера моделі сорочки
-    public String description = "-description required-"; // стандартний опис сорочки
+    public int shirtID = 23; // стандартне значення номера моделі сорочки
+    public String description = "-OVER GOOD-"; // стандартний опис сорочки
     // коди кольорів: R=червоний, B=синій, G=зелений, U=невідомо
-    public char colorCode = 'U';
-    public double price = 0.0; // стандартна вартість сорочки
-    public int quantityInStock = 0; // стандартна кількість на складі
+    public char colorCode = 'B';
+    public double price = 10.0; // стандартна вартість сорочки
+    public int quantityInStock = 123; // стандартна кількість на складі
 
     // цей метод просто виводить всю інформацію про сорочку на екран
     public void displayShirtInformation() {
